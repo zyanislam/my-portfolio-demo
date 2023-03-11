@@ -1,6 +1,6 @@
 ### Check out the App for free on the link below:
 
-https://zyanislam.github.io/WeatherApp_JavaScript/
+https://zyanislam.github.io/my-portfolio-demo/
 
 ......................................................
 
