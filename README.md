@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+### Check out the App for free on the link below:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://zyanislam.github.io/WeatherApp_JavaScript/
+
+......................................................
 
 ## Available Scripts
 
@@ -8,10 +10,11 @@ In the project directory, you can run:
 
 ### `npm start`
 
-###Note
+## Note
+
 If any problem related to 'react-scripts' occurs, run the following command on your VS Code terminal in the project directory to manually add react-script dependency:
 
-### 'npm install react-scripts --save'
+### `npm install react-scripts --save`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
