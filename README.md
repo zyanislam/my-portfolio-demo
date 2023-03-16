@@ -6,7 +6,7 @@ https://zyanislam.github.io/my-portfolio-demo/
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run the application by typing:
 
 ### `npm start`
 
