@@ -7,13 +7,13 @@ https://zyanislam.github.io/my-portfolio-demo/
 
 ......................................................
 
-## Available Scripts
+## Available Script
 
 In the project directory, you can run the application by typing:
 
 ### `npm start`
 
-## Note
+## Notes
 
 If any problem related to 'react-scripts' occurs, run the following command on your VS Code terminal in the project directory to manually add react-script dependency:
 
